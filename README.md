@@ -80,7 +80,8 @@ The upsampled Status Variable:
 * The models used were logestic regression, decision tree classifier, random forest, and gaussian nb.
 * The classification reports, ROC Curve, and further analysis can be found in the full report. Below is a box and whisker plot of the combined accuracy, precision, recall, and F1 scores to indicate which model performed the best.
 
-![compare_ML](https://user-images.githubusercontent.com/105391626/233817763-34961249-62db-40a5-aa0e-5a2659e05b04.jpg)
+![Screen Shot 2023-04-23 at 1 26 06 PM](https://user-images.githubusercontent.com/105391626/233858073-8eb41312-4044-4ffe-95ad-2e03ae2cc9e5.png)
+
 
 * It was determined that Random Forest was the best performing model and would be used to make predictions.
 
