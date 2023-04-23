@@ -1,4 +1,4 @@
-# Predicting-Employee-Retention-with-HR-Analytics
+# Predicting-Employee-Retention
 The capstone project for my master's in data analytics degree.
 >Combining 2 datasets from fake companies, the datasets will be combined, cleaned, explored, and trained by 4 classfication models to predict employee turnover and offer solutions for corrective steps in order to reduce turnover and increase employee development.
 
