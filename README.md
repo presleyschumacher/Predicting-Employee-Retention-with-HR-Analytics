@@ -104,6 +104,6 @@ The upsampled Status Variable:
 ## Resources
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://info.workinstitute.com/hubfs/2022%20Retention%20Report/2022%20Retention%20Report%20-%20Work%20Institute.pdf
 
-https://www.knime.com/blog/predicting-employee-attrition-with-machine-learning ![image](https://user-images.githubusercontent.com/105391626/233863030-9bf15dff-8b2a-411c-adac-606ad3a47916.png)
+https://www.knime.com/blog/predicting-employee-attrition-with-machine-learning
 
-https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/![image](https://user-images.githubusercontent.com/105391626/233863043-2bc77367-7f39-49ca-b9fa-df96161e0944.png)
+https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/
