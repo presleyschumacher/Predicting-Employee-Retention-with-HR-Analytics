@@ -1,6 +1,5 @@
 # Predicting-Employee-Retention
-The capstone project for my master's in data analytics degree.
->Combining 2 datasets from fake companies, the datasets will be combined, cleaned, explored, and trained by 4 classfication models to predict employee turnover and offer solutions for corrective steps in order to reduce turnover and increase employee development.
+>Using 2 datasets from fake companies related to employee demographics, the datasets will be combined, cleaned, explored, and trained by 4 classfication models to predict employee turnover and offer solutions for corrective steps in order to reduce turnover and increase employee development.
 
 >The comprehensive report can be found on OverLeaf: [Schumacher_Overleaf_Report](https://www.overleaf.com/read/mfhmvbkvpcjf) 
 
