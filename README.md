@@ -49,7 +49,7 @@ Using the seaborn package and matplotlib.pyplot charts were created of each feat
 Charts were also created of the demographics to compare the active vs inactive employees to get an early understanding of what may cause an employee to leave the company.
 
 The chart below shows us that the analysis for turnover is necessary because turnover has been on the rise year over year.
-![hires_terms](https://user-images.githubusercontent.com/105391626/233816843-ddd4468a-ea64-4930-99cc-223c09f48620.jpg)
+![hires_terms](https://user-images.githubusercontent.com/105391626/233818581-1eccc136-9c27-486d-b833-752f9d4b69c3.jpg)
 
 During the exploratory data analysis process, it was discovered that 85% of the data belongs to active employees while nearly 15% belongs to inactive employees. This indicates that the classification is imbalanced, or has skewed class proportions.
 
@@ -66,7 +66,7 @@ Aiming to balance the distribution of labels, the minority class was upsampled u
 * A new train and test set was created with the updated, upsampled data.
 
 The upsampled Status Variable:
-![status_up](https://user-images.githubusercontent.com/105391626/233817316-963f0e5a-280e-427c-b155-0a604c5c9cfc.jpg)
+![status_up](https://user-images.githubusercontent.com/105391626/233818603-46fc0d43-507b-4d8d-a3e6-ce70d184d2f7.jpg)
 
 #### Feature Selection
 * Feature selection was used to choose a subset of the features predicted to be the best indicators of our main goal -- predicting turnover -- to improve the clairity of learning results
