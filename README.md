@@ -91,7 +91,7 @@ The upsampled Status Variable:
 * To provide a high-level summary, the highest-ranking attrbute of the top 5 features were graphed. 
 * The position feature had 2 attributes that were tied.
 
-![Screen Shot 2023-04-22 at 10 21 24 PM](https://user-images.githubusercontent.com/105391626/233817953-c8d60e1d-55a0-4602-b4ac-90ac5f392fb8.png)
+![turnover_probability](https://user-images.githubusercontent.com/105391626/234370706-45defc1a-cb85-4d68-8a88-58a32a52d3ef.jpeg)
 
 * Employees within their first year at the company are the most likely to leave. The company may want to re-evaluate its onboarding process to better integrate employees into the culture and provide opportunities for early career development through mentorship programs.
 
