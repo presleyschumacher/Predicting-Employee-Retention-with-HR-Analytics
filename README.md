@@ -16,7 +16,7 @@ The main goal:
 * Employ and compare 4 machine learning algorithims to identify the group of employees who are at the highest risk of leaving to implement solutions to improve employee satisfaction and enchance the retention rates.
 
 ## Process Flow:
-![Process_Flow](https://user-images.githubusercontent.com/105391626/233816351-0b1e1d8b-9679-4ca9-940d-158b37ef7494.jpeg)
+![Process_Workflow](https://user-images.githubusercontent.com/105391626/234442734-c5d0e896-f148-486b-8d7b-9a021b443906.jpeg)
 
 ## The Data: Collecting, Cleaning, Exploring
 #### Collecting
@@ -34,7 +34,7 @@ Data was added to the People Analytics datafame to enhance the dataset and explo
 #### Cleaning
 Several steps were taken to clean the data. A brief process flow is as follows. Each step of the process flow are explained in detail in the full report.
 
-![Cleaning_Process](https://user-images.githubusercontent.com/105391626/233816457-19ed02a5-0b84-41f9-8635-1a7b6359b8c7.jpeg)
+![Cleaning_Workflow](https://user-images.githubusercontent.com/105391626/234442683-36541259-1cba-4961-8463-304b671d4fcf.jpeg)
 
 The original dataset contained several categorial columns. All categorical columns were converted into numerical values so that the machine learning algorithms could achieve the highest accuracy during training and test. A table was created for these modifications for easy access and clear understanding of these variables throughout the analysis of this project and for future analysis. It is a large table so a PDF link has been included.
 
