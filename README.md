@@ -48,7 +48,7 @@ Using the seaborn package and matplotlib.pyplot charts were created of each feat
 Charts were also created of the demographics to compare the active vs inactive employees to get an early understanding of what may cause an employee to leave the company.
 
 The chart below shows us that the analysis for turnover is necessary because turnover has been on the rise year over year.
-![hires_terms](https://user-images.githubusercontent.com/105391626/233818581-1eccc136-9c27-486d-b833-752f9d4b69c3.jpg)
+[hires_terms.pdf](https://github.com/presleyschumacher/Predicting-Employee-Retention-with-HR-Analytics/files/11356300/hires_terms.pdf)
 
 During the exploratory data analysis process, it was discovered that 85% of the data belongs to active employees while nearly 15% belongs to inactive employees. This indicates that the classification is imbalanced, or has skewed class proportions.
 
