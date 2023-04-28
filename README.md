@@ -49,7 +49,7 @@ Charts were also created of the demographics to compare the active vs inactive e
 
 The chart below shows us that the analysis for turnover is necessary because turnover has been on the rise year over year.
 
-![hires_terms](https://user-images.githubusercontent.com/105391626/235225090-d7dcf6cc-4b6b-4afd-bc69-db052bd98a2e.jpg)
+![hires_terms](https://user-images.githubusercontent.com/105391626/235225248-c4b96eb6-c5f9-4755-a563-ecfb766c47cc.jpg)
 
 During the exploratory data analysis process, it was discovered that 85% of the data belongs to active employees while nearly 15% belongs to inactive employees. This indicates that the classification is imbalanced, or has skewed class proportions.
 
